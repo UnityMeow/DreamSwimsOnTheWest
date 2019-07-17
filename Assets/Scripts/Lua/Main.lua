@@ -1,0 +1,2 @@
+require("Frame");
+StartHome:Show();
